@@ -9,4 +9,8 @@ public class class1 {
     public String code2(){
         return "second time code";
     }
+
+    public String newM(){
+        return "switched on b1 after merging b2 in main branch";
+    }
 }
