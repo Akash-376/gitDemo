@@ -10,6 +10,7 @@ public class GitcmdDemoApplication {
 		SpringApplication.run(GitcmdDemoApplication.class, args);
 		System.out.println("commit 1");
 		System.out.println("branch-B commit-1");
+		System.out.println("branch-B commit-2");
 	}
 
 }
